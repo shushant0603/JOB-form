@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    margin:0 auto ;
+
+}
+body{
+    background-color: #ccc;
+}
+.apply_box{
+    max-width: 500px;
+    padding: 20px ;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1, 10);
+    border-radius: 10px; 
+
+}
+.apply_box h1{
+    align-content: center;
+}
+.title_small{
+    font-size: 20px;
+}
